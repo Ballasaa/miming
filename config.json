@@ -22,7 +22,7 @@
     "pools": [
         {
             "coin": "monero",
-            "algo": "cn/gpu",
+            "algo": "m7m",
             "url": "168.235.86.33:3393",
             "user": "SK_QzApkbVGsAxyQykaWSnEF.Zedzedzed",
             "pass": "x",
